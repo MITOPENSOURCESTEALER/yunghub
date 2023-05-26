@@ -693,7 +693,7 @@ local DoritoLib = {}; do
 		Logo.Position = UDim2.new(0.0133333327, 0, 0.0291262139, 0)
 		Logo.Rotation = 180.000
 		Logo.Size = UDim2.new(0.0583333336, 0, 0.113268606, 0)
-		Logo.Image = "rbxassetid://13416643688"
+		Logo.Image = "rbxassetid://13553462853"
 
 		Title.Name = "Title"
 		Title.Parent = Main
